@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|c:\\users\\\u0433\u0440\u0435\u0442\u0430\\desktop\\\u0435\u0442\u0430\u043F03\\mypaint.models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint.models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint.models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint.models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint.models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48621627-C265-4349-A6CF-1C3737DE1FE1}|MyPaint\\MyPaint.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48621627-C265-4349-A6CF-1C3737DE1FE1}|MyPaint\\MyPaint.csproj|solutionrelative:mypaint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint.models\\enums\\shapesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDB96DA-0611-4A50-B5B8-57FB04FA976B}|MyPaint.Models\\MyPaint.Models.csproj|solutionrelative:mypaint.models\\enums\\shapesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48621627-C265-4349-A6CF-1C3737DE1FE1}|MyPaint\\MyPaint.csproj|C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\mypaint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48621627-C265-4349-A6CF-1C3737DE1FE1}|MyPaint\\MyPaint.csproj|solutionrelative:mypaint\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Circle.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Circle.cs",
+              "RelativeToolTip": "MyPaint.Models\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:25:48.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Rectangle.cs",
+              "RelativeToolTip": "MyPaint.Models\\Rectangle.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:25:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Square.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Square.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Square.cs",
+              "RelativeToolTip": "MyPaint.Models\\Square.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:22:54.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyPaint\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Downloads\\001. C# Paint1\\\u0415\u0442\u0430\u043F03\\MyPaint\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\Downloads\\001. C# Paint1\\\u0415\u0442\u0430\u043F03\\MyPaint\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:16:42.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint\\MainForm.cs",
+              "RelativeDocumentMoniker": "MyPaint\\MainForm.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint\\MainForm.cs",
+              "RelativeToolTip": "MyPaint\\MainForm.cs",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAjwGYBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:17:37.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Triangle.cs",
+              "RelativeToolTip": "MyPaint.Models\\Triangle.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:18:47.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Shape.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Shape.cs",
+              "RelativeToolTip": "MyPaint.Models\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:18:41.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShapesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Enums\\ShapesEnum.cs",
+              "RelativeDocumentMoniker": "MyPaint.Models\\Enums\\ShapesEnum.cs",
+              "ToolTip": "C:\\Users\\\u0413\u0440\u0435\u0442\u0430\\Desktop\\\u0415\u0442\u0430\u043F03\\MyPaint.Models\\Enums\\ShapesEnum.cs",
+              "RelativeToolTip": "MyPaint.Models\\Enums\\ShapesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T20:18:20.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
